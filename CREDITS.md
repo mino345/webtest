@@ -6,12 +6,13 @@ Contributors:
 - [7h3Rabbit](https://github.com/7h3Rabbit)
 - [cockroacher](https://github.com/cockroacher)
 - [marcusosterberg](https://github.com/marcusosterberg)
-- [flowertwig-org](https://github.com/flowertwig-org)
 - [dependabot[bot]](https://github.com/apps/dependabot)
+- [flowertwig-org](https://github.com/flowertwig-org)
 - [krompaco](https://github.com/krompaco)
 - [linulas](https://github.com/linulas)
 - [perlan](https://github.com/perlan)
 - [puggan](https://github.com/puggan)
+- [peterk](https://github.com/peterk)
 
 
 ## Projects we depend on:
@@ -76,10 +77,6 @@ Usage: Used by our devs to ensure code quality
 Usage: Used to understand and compare software versions
 
 ## External Information Source(s):
-### Update HTML and CSS Test Sources:
-- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element#obsolete_and_deprecated_elements
-
 ### Update Software Test Sources:
 - https://github.com/github/advisory-database/tree/main/advisories/github-reviewed
 - https://api.github.com/repos/{owner}/{repo}
@@ -99,6 +96,10 @@ Usage: Used to understand and compare software versions
 - https://www.cvedetails.com/vulnerability-list.php?vendor_id=26&product_id=3427&page=1
 - https://www.php.net/eol.php
 - https://www.php.net/releases/
+
+### Update HTML and CSS Test Sources:
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element#obsolete_and_deprecated_elements
 
 ### Tracking and Privacy Test Sources:
 - https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
